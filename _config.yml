@@ -93,32 +93,38 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landfarz
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
-menu:
-  Home: /
-  Archives: /archives
+# menu:
+#   Home: /
+#   Archives: /archives
 
-sidebar: right
+# sidebar: right
+
+# widgets:
+# - search
+# - category
+# - recent_posts
+# - tag
+# - tagcloud
+
+# # Duoshuo
+# duoshuo_shortname: 
+
+# fancybox: true
+
+# google_analytics:
+# rss: 
+# google_site_verification: 
+# baidu_site_verification: 
+# icon: 
 
 widgets:
-- search
-- category
-- recent_posts
-- tag
-- tagcloud
-
-# Duoshuo
-duoshuo_shortname: 
-
-fancybox: true
-
-google_analytics:
-rss: 
-google_site_verification: 
-baidu_site_verification: 
-icon: 
+  - type: profile
+    position: left
+  - type: recent_posts
+    position: right
