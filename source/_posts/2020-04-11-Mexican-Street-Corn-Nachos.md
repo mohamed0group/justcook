@@ -14,7 +14,7 @@ categories: Recipes
 src="//www.dailymotion.com/embed/video/x7t8yau?autoplay=1&mute=1"
 allowfullscreen allow="autoplay"></iframe>
 
-Mexican Street Corn Nachos | Mexican Street Food | Nacho Recipe - Here's a quick and easy to make Mexican Street Corn Nachos video with an amazing flavor profile. If love Mexican Street Corn then for sure your going to love this Street Corn Nachos Recipe! These are perfect to put out for parties and sports events. This recipe can be made from start to finish in 20 min. Enjoy!
+Mexican Street Corn Nachos | Mexican Street Food | Nacho Recipe - Here's a quick and easy to make Mexican Street Corn Nachos video with an amazing flavor profile. If love Mexican Street Corn then for sure your going to love this Street Corn Nachos Recipe! These are perfect to put out for parties and sports events. This recipe can be made from start to finish in 20 min. Enjoy!.
 
 Ingredients
 
